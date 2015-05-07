@@ -1,0 +1,2 @@
+Scriptname ProjectDamagescript extends ObjectReference
+
